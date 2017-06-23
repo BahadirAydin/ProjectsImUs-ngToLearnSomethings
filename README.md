@@ -1,2 +1,2 @@
-# ProjectsImUs-ngToLearnSomethings
-Python Projects i solved online.(Some of them ridicilously solved,rest of them even more ridicilous i'd say :D )
+I'll write something here in a foreseable future.
+I hope.
