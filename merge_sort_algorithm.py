@@ -7,8 +7,8 @@ def merge_algorithm(list):
         left_half = list[:mid]
         right_half = list[mid:]
 
-        merge_sep(left_half)
-        merge_sep(right_half)
+        merge_algorithm(left_half)
+        merge_algorithm(right_half)
 
         while i < len(left_half) and j < len(right_half):
 
